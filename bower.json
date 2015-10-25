@@ -1,0 +1,17 @@
+{
+  "name": "olingo-odatajs",
+  "homepage": "https://olingo.apache.org/doc/javascript/",
+  "authors": ["(Apache Olingo <user@olingo.apache.org>)"],
+  "description": "This is a 'Fork' of the Olingo OData Client for JavaScript Library to make it available on Bower. The Olingo OData Client for JavaScript (odatajs) is a library written in JavaScript that enables browser based frontend applications to easily use the OData protocol for communication with application servers. This fork supports the OData v4 protocol.",
+  "main": "odatajs.js",
+  "moduleType": ["globals"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taarskog/olingo-odatajs.git"
+}
+  "keywords": ["odata"],
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "ignore": [
+    "README.md"
+  ]
+}
