@@ -8,7 +8,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/taarskog/olingo-odatajs.git"
-}
+  },
   "keywords": ["odata"],
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "ignore": [
